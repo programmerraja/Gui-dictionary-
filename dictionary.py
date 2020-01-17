@@ -1,3 +1,5 @@
+""" this is simple online dictionary"""
+
 import tkinter as t
 import requests as r
 from bs4 import BeautifulSoup as soup
