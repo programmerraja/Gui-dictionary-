@@ -35,5 +35,4 @@ class dictnaroy:
                 messagebox.showinfo("Error","Plse connect to internet")
 
 
-
 app=dictnaroy()
