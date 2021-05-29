@@ -34,4 +34,5 @@ class dictnaroy:
             except:
                 messagebox.showinfo("Error","Plse connect to internet")
 
+
 app=dictnaroy()
