@@ -30,7 +30,6 @@ class dictnaroy:
                 self.text_word.insert("1.0",msg)
                 self.text_word["state"]="disabled"
                 
-            
             except:
                 messagebox.showinfo("Error","Plse connect to internet")
 
