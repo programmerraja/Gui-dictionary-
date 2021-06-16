@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup as soup
 from tkinter import messagebox
 from tkinter import scrolledtext as scroll
 
+
 class dictnaroy:
     def __init__(self):
         root=t.Tk()
