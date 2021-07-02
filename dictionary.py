@@ -34,4 +34,3 @@ class dictnaroy:
 
 
 app=dictnaroy()
-
